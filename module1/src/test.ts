@@ -12,4 +12,14 @@ for (const fruit of fruits) {
 
 
 
+
 console.log(test,apple,numberP);
+
+
+// while loop in typescript
+
+let i = 0;
+while (i < 5) {
+  console.log("Iteration:", i);
+  i++;
+}
